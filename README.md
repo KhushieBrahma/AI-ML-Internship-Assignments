@@ -9,7 +9,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 ```
 AI-ML-Internship-Assignments
 │
-├── Assignment-01-Medical-Insurance-Cost-Prediction
+├── Assignment-01
 ├── Assignment-02
 ├── Assignment-03
 └── ...
