@@ -80,5 +80,3 @@ The Multiple Linear Regression model effectively predicts medical insurance char
 ## 👩‍💻 Author
 
 **Khushie Brahma**
-
-AI/ML Internship Assignment 1
