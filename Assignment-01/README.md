@@ -66,6 +66,9 @@ The project includes:
 - Actual vs Predicted Scatter Plot
 - Model Evaluation Metrics
 
+## 📷 Actual vs Predicted Scatter Plot
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
 ---
 
 ## ✅ Conclusion
