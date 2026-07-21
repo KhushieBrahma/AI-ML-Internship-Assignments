@@ -34,4 +34,18 @@ Topics Covered:
 
 ---
 
+### Assignment 2
+
+**Customer Churn Prediction using Logistic Regression**
+
+Topics Covered:
+
+- Data Understanding
+- Data Preprocessing
+- Logistic Regression
+- Classification Metrics
+- Confusion Matrix
+
+---
+
 Future assignments will be added to this repository.
