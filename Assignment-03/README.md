@@ -44,7 +44,21 @@ https://www.kaggle.com/datasets/akram24/position-salaries
 
 ## Results
 
-The Polynomial Regression model successfully learned the non-linear relationship between employee level and salary. The evaluation metrics indicated good predictive performance, and the regression curve closely matched the original data distribution.
+## Results
+
+Model Evaluation:
+
+- Mean Absolute Error (MAE): XX.XX
+- Mean Squared Error (MSE): XX.XX
+- R² Score: 0.XXXX
+
+The Polynomial Regression model successfully captured the non-linear relationship between employee level and salary.
+
+---
+
+## Polynomial Regression Curve
+
+![Polynomial Regression Curve](images/polynomial_regression_curve.png)
 
 ---
 
