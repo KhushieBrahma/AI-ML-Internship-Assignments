@@ -48,30 +48,25 @@ Topics Covered:
 
 ---
 
-# Assignment 3 – Salary Prediction using Polynomial Regression
+### Assignment 3
 
-### Objective
+**Salary Prediction using Polynomial Regression**
 
-Develop a Polynomial Regression model to predict employee salaries based on position level and accurately model the non-linear relationship between them.
+Topics Covered:
 
-### Machine Learning Algorithm
-
-- Polynomial Regression (Degree = 3)
-
-### Skills Demonstrated
-
-- Feature Engineering using Polynomial Features
-- Regression Model Development
-- Model Evaluation
-- MAE
-- MSE
-- R² Score
+- Data Understanding
+- Data Preprocessing
+- Polynomial Feature Transformation (Degree = 3)
+- Polynomial Regression
+- Model Training
+- Salary Prediction
+- Model Evaluation (MAE, MSE & R² Score)
 - Polynomial Regression Curve
 - Data Visualization
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
