@@ -66,6 +66,24 @@ Topics Covered:
 
 ---
 
+# Assignment 4
+
+### Breast Cancer Classification using K-Nearest Neighbors (KNN)
+
+Topics Covered:
+
+- Data Understanding
+- Data Preprocessing
+- Missing Value Analysis
+- Feature Scaling using StandardScaler
+- K-Nearest Neighbors (K = 5)
+- Classification
+- Accuracy, Precision, Recall & F1-Score
+- Confusion Matrix
+- Model Evaluation
+
+---
+
 ## Technologies Used
 
 - Python
