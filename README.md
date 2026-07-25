@@ -4,87 +4,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 
 ---
 
-## Repository Structure
-
-```
-AI-ML-Internship-Assignments
-│
-├── Assignment-01
-├── Assignment-02
-├── Assignment-03
-└── ...
-```
-
----
-
-## Completed Assignments
-
-### Assignment 1
-
-**Medical Insurance Cost Prediction using Multiple Linear Regression**
-
-Topics Covered:
-
-- Data Understanding
-- Data Preprocessing
-- Label Encoding
-- Multiple Linear Regression
-- Model Evaluation
-- Data Visualization
-
----
-
-### Assignment 2
-
-**Customer Churn Prediction using Logistic Regression**
-
-Topics Covered:
-
-- Data Understanding
-- Data Preprocessing
-- Logistic Regression
-- Classification Metrics
-- Confusion Matrix
-
----
-
-### Assignment 3
-
-**Salary Prediction using Polynomial Regression**
-
-Topics Covered:
-
-- Data Understanding
-- Data Preprocessing
-- Polynomial Feature Transformation (Degree = 3)
-- Polynomial Regression
-- Model Training
-- Salary Prediction
-- Model Evaluation (MAE, MSE & R² Score)
-- Polynomial Regression Curve
-- Data Visualization
-
----
-
-# Assignment 4
-
-### Breast Cancer Classification using K-Nearest Neighbors (KNN)
-
-Topics Covered:
-
-- Data Understanding
-- Data Preprocessing
-- Missing Value Analysis
-- Feature Scaling using StandardScaler
-- K-Nearest Neighbors (K = 5)
-- Classification
-- Accuracy, Precision, Recall & F1-Score
-- Confusion Matrix
-- Model Evaluation
-
----
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -93,6 +13,92 @@ Topics Covered:
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+---
+
+# 📂 Assignments
+
+| Assignment | Topic | Algorithm |
+|------------|-------|-----------|
+| Assignment-01 | Medical Insurance Cost Prediction | Multiple Linear Regression |
+| Assignment-02 | Customer Churn Prediction | Logistic Regression |
+| Assignment-03 | Salary Prediction | Polynomial Regression |
+| Assignment-04 | Breast Cancer Classification | K-Nearest Neighbors (KNN) |
+| Assignment-05 | Employee Attrition Prediction | Decision Tree & Random Forest |
+
+---
+
+## Repository Structure
+
+```text
+AI-ML-Internship-Assignments/
+│
+├── Assignment-01/
+├── Assignment-02/
+├── Assignment-03/
+├── Assignment-04/
+├── Assignment-05/
+│
+└── README.md
+```
+
+---
+
+## Completed Assignments
+
+# 📖 Assignment Overview
+
+### 📌 Assignment 1
+**Medical Insurance Cost Prediction using Multiple Linear Regression**
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Multiple Linear Regression
+- Performance evaluation
+
+---
+
+### 📌 Assignment 2
+**Customer Churn Prediction using Logistic Regression**
+
+- Data preprocessing
+- Feature encoding
+- Logistic Regression model
+- Classification metrics
+
+---
+
+### 📌 Assignment 3
+**Salary Prediction using Polynomial Regression**
+
+- Polynomial feature transformation
+- Model training
+- Prediction
+- Model evaluation
+
+---
+
+### 📌 Assignment 4
+**Breast Cancer Classification using K-Nearest Neighbors (KNN)**
+
+- Data preprocessing
+- Feature scaling
+- KNN Classification
+- Confusion Matrix
+- Classification metrics
+
+---
+
+### 📌 Assignment 5
+**Employee Attrition Prediction using Decision Tree and Random Forest**
+
+- Data preprocessing
+- Decision Tree Classifier
+- Random Forest Classifier
+- Model comparison
+- Feature Importance
+- Confusion Matrices
+- Performance evaluation
 
 ---
 
