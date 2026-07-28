@@ -25,6 +25,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 | Assignment-03 | Salary Prediction | Polynomial Regression |
 | Assignment-04 | Breast Cancer Classification | K-Nearest Neighbors (KNN) |
 | Assignment-05 | Employee Attrition Prediction | Decision Tree & Random Forest |
+| Assignment-06 | Weather Condition Classification | Support Vector Machine (SVM) |
 
 ---
 
@@ -38,6 +39,7 @@ AI-ML-Internship-Assignments/
 ├── Assignment-03/
 ├── Assignment-04/
 ├── Assignment-05/
+├── Assignment-06/
 │
 └── README.md
 ```
@@ -99,6 +101,20 @@ AI-ML-Internship-Assignments/
 - Feature Importance
 - Confusion Matrices
 - Performance evaluation
+
+---
+
+### 📌 Assignment 6
+
+**Weather Condition Classification using Support Vector Machine (SVM)**
+
+- Weather data collection using Open-Meteo API
+- JSON to Pandas DataFrame conversion
+- Data preprocessing
+- Feature scaling using StandardScaler
+- SVM Classification (RBF Kernel)
+- Model Evaluation
+- Confusion Matrix
 
 ---
 
