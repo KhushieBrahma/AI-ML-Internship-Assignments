@@ -26,6 +26,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 | Assignment-04 | Breast Cancer Classification | K-Nearest Neighbors (KNN) |
 | Assignment-05 | Employee Attrition Prediction | Decision Tree & Random Forest |
 | Assignment-06 | Weather Condition Classification | Support Vector Machine (SVM) |
+| Assignment-07 | Customer Segmentation | K-Means Clustering & PCA |
 
 ---
 
@@ -115,6 +116,18 @@ AI-ML-Internship-Assignments/
 - SVM Classification (RBF Kernel)
 - Model Evaluation
 - Confusion Matrix
+
+---
+
+### 📌 Assignment 7
+
+**Customer Segmentation using K-Means Clustering and Principal Component Analysis (PCA)**
+
+- Data preprocessing
+- K-Means clustering
+- Elbow Method
+- Principal Component Analysis (PCA)
+- Cluster visualization
 
 ---
 
