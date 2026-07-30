@@ -27,6 +27,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 | Assignment-05 | Employee Attrition Prediction | Decision Tree & Random Forest |
 | Assignment-06 | Weather Condition Classification | Support Vector Machine (SVM) |
 | Assignment-07 | Customer Segmentation | K-Means Clustering & PCA |
+| Assignment-08 | Handwritten Digit Recognition | Artificial Neural Network (ANN) |
 
 ---
 
@@ -128,6 +129,18 @@ AI-ML-Internship-Assignments/
 - Elbow Method
 - Principal Component Analysis (PCA)
 - Cluster visualization
+
+---
+
+### 📌 Assignment 8
+
+**Handwritten Digit Recognition using Artificial Neural Networks (ANN)**
+
+- Data preprocessing
+- Artificial Neural Network (ANN)
+- TensorFlow/Keras
+- Model evaluation
+- Deep Learning
 
 ---
 
