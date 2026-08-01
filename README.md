@@ -28,6 +28,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 | Assignment-06 | Weather Condition Classification | Support Vector Machine (SVM) |
 | Assignment-07 | Customer Segmentation | K-Means Clustering & PCA |
 | Assignment-08 | Handwritten Digit Recognition | Artificial Neural Network (ANN) |
+| Assignment-09 | Image Classification | Convolutional Neural Network (CNN) |
 
 ---
 
@@ -141,6 +142,19 @@ AI-ML-Internship-Assignments/
 - TensorFlow/Keras
 - Model evaluation
 - Deep Learning
+
+---
+
+### 📌 Assignment 9
+
+**Image Classification using Convolutional Neural Networks (CNN)**
+
+- Image preprocessing and normalization
+- Convolutional Neural Network (CNN)
+- Conv2D and MaxPooling layers
+- Binary image classification
+- TensorFlow/Keras
+- Model evaluation using Accuracy, Precision, Recall, and F1-Score
 
 ---
 
