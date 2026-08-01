@@ -29,6 +29,7 @@ This repository contains all assignments completed during my AI/ML Internship.
 | Assignment-07 | Customer Segmentation | K-Means Clustering & PCA |
 | Assignment-08 | Handwritten Digit Recognition | Artificial Neural Network (ANN) |
 | Assignment-09 | Image Classification | Convolutional Neural Network (CNN) |
+| Assignment-10 | End-to-End Machine Learning Model Deployment using GitHub and Render | Random Forest Classifier |
 
 ---
 
@@ -43,6 +44,9 @@ AI-ML-Internship-Assignments/
 ├── Assignment-04/
 ├── Assignment-05/
 ├── Assignment-06/
+├── Assignment-07/
+├── Assignment-08/
+├── Assignment-09/
 │
 └── README.md
 ```
@@ -155,6 +159,21 @@ AI-ML-Internship-Assignments/
 - Binary image classification
 - TensorFlow/Keras
 - Model evaluation using Accuracy, Precision, Recall, and F1-Score
+
+---
+
+### Assignment 10 – End-to-End Machine Learning Model Deployment
+
+**Topic:** Heart Disease Prediction using Machine Learning, Flask, GitHub and Render
+
+- Developed and evaluated a Random Forest classification model
+- Serialized the trained model using Joblib
+- Built a Flask REST API for real-time predictions
+- Deployed the application publicly using Render
+
+**GitHub Repository:** [HeartDiseaseDeployment](YOUR_ASSIGNMENT_10_GITHUB_REPO_URL)
+
+**Live Deployment:** [Heart Disease Prediction API](https://heart-disease-prediction-1zp6.onrender.com)
 
 ---
 
